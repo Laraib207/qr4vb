@@ -677,6 +677,9 @@ const VeerBharatManufacturing = () => {
                       </div>
                     </td>
                   </tr>
+
+                  
+
                   <tr>
                     <td className="border border-gray-300 px-4 py-4 text-center font-bold text-lg">SF</td>
                     <td className="border border-gray-300 px-4 py-4">
@@ -687,7 +690,7 @@ const VeerBharatManufacturing = () => {
                         <div className="text-sm font-medium text-blue-600">FSSAI Lic. No. 10017021002751</div>
                       </div>
                     </td>
-                  </tr>
+                    </tr>
                 </tbody>
               </table>
             </div>
@@ -725,17 +728,17 @@ const VeerBharatManufacturing = () => {
             <div className="grid md:grid-cols-3 gap-6">
               <div className="text-center p-6 bg-purple-50 rounded-lg">
                 <h3 className="text-lg font-semibold text-purple-800 mb-2">Head Office</h3>
-                <p className="text-gray-600 text-sm">Sri Shyam Agro Industries<br/>Rajasthan, India</p>
+                <p className="text-gray-600 text-sm">Sri Shyam Agro Industries<br/>802, 8th Floor, Tower- c, Ithum, Plot No-A-40, Rajat Vihar, Sector 62, Noida, Uttar Pradesh 201020, India</p>
               </div>
               
               <div className="text-center p-6 bg-pink-50 rounded-lg">
                 <h3 className="text-lg font-semibold text-pink-800 mb-2">Email</h3>
-                <p className="text-gray-600 text-sm">info@veerbharat.com<br/>contact@veerbharat.com</p>
+                <p className="text-gray-600 text-sm">info@veer-bharat.com<br/>sale@veer-bharat.com</p>
               </div>
               
               <div className="text-center p-6 bg-red-50 rounded-lg">
                 <h3 className="text-lg font-semibold text-red-800 mb-2">Phone</h3>
-                <p className="text-gray-600 text-sm">+91 XXXX-XXXX-XX<br/>+91 XXXX-XXXX-XX</p>
+                <p className="text-gray-600 text-sm">+91 0120-4550138<br/>+91 9871769051</p>
               </div>
             </div>
           </div>
